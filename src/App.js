@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { FaRocket } from 'react-icons/fa';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <FaRocket className="App-logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
