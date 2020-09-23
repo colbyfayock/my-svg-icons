@@ -3,11 +3,13 @@ import logo from './logo.svg';
 import './App.css';
 import { FaRocket } from 'react-icons/fa';
 
+import Globe from './Globe';
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <FaRocket className="App-logo" />
+        <Globe className="App-logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
