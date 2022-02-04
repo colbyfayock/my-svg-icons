@@ -2,6 +2,8 @@
 
 Demo for tutorial [How to Use SVG Icons in React with React Icons and Font Awesome](https://www.youtube.com/watch?v=OtcA2EAlldo)
 
+🚀 See Demo: https://my-svg-icons.netlify.app/
+
 📝 Article: https://www.freecodecamp.org/news/how-to-use-svg-icons-in-react-with-react-icons-and-font-awesome/
 
 📺 YouTube: https://www.youtube.com/watch?v=OtcA2EAlldo
